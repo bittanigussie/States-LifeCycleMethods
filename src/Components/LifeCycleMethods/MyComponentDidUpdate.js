@@ -18,7 +18,7 @@ class MyComponentDidUpdate extends Component {
 		document.getElementById("topic").innerHTML =
 			document.getElementById("topic").innerHTML ===
 			"Topic just changed using life cycle"
-				? "Hi class"
+				? "Hi class stud"
 				: "Topic just changed using life cycle";
 	}
 
